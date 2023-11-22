@@ -68,6 +68,7 @@ body {
   color: var(--text-color);
 }
 
+
 *::selection {
   color: var(--bg-color);
   background: var(--main-color);
@@ -657,7 +658,9 @@ skills-container>div>div {
       margin-top: 00px;
     }
     #calendar{
+      /* font-size: 1px; */
       height: 100px;
+      width:auto;
       /* border: 3px solid brown; */
       margin-bottom: 50px;
     }
@@ -867,6 +870,7 @@ skills-container>div>div {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 8rem;
   /* border: 2px solid red; */
 }
 
