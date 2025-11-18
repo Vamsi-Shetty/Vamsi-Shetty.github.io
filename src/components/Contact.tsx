@@ -14,8 +14,6 @@ const Contact: React.FC = () => {
       return;
     }
 
-    // Replace with your actual submission logic
-    console.log({ email, message, captchaValue });
     alert("Message submitted!");
     setEmail("");
     setMessage("");
