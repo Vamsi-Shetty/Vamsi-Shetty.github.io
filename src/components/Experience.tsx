@@ -9,18 +9,15 @@ import { ExperienceType } from "../types/types";
 
 const experiences: ExperienceType[] = [
   {
-    date: "Jan 2025 - Aug 2025",
+    date: "Jan 2025 - Present",
     company: "Softworth Solutions",
     role: "Full-Stack Developer",
-    description: "Web Design; Web Development; Wordpress + Elementor.",
     logo: sws,
   },
   {
     date: "Aug 2024 - Jan 2025",
     company: "YellowOwl",
     role: "Full-Stack Developer",
-    description:
-      "Mobile Development ( Parque D.Carlos I App - Course Final Project [Grade:20/20] ); Web Development; Functional testing some company's apps (Lota Digital, Caldas da Rainha - City Guide).",
     logo: yellowowl,
   },
   {
@@ -33,8 +30,6 @@ const experiences: ExperienceType[] = [
     date: "Jan 2021 - Feb 2023",
     company: "EPIXS Media",
     role: "Social Media Executive & Content Writer",
-    description:
-      "Web Development; Functional testing some company's apps (Lota Digital, Caldas da Rainha - City Guide).",
     logo: epixsmedia,
   },
   {
